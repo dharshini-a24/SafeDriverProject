@@ -22,9 +22,8 @@
 This project detects driver drowsiness using computer vision techniques. It analyzes eye aspect ratio (EAR) and mouth aspect ratio (MAR) from real-time webcam input to determine signs of fatigue. If the system detects drowsiness, it triggers an alert sound to wake the driver and prevent accidents.
 
 ## Contributors
-- **Name:** Dharshini [and team members]
-- **Register No:** [Your Register Numbers]
-- **Guide:** [Guide Name]
+- **Name:** Dharshini A (211423104130) and Brigitte Mary A (211423104093) 
+- **Guide:** Alima Beevi A, M.E Assistant Proffessor
 
 ## Tools and Technologies Used
 - Python 3.10+
